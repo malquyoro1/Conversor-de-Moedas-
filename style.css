@@ -1,0 +1,62 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  text-align: center;
+  background-image: url("https://images.freecreatives.com/wp-content/uploads/2016/02/Green-Polygons-Background.jpg");
+  background-color: #000000;
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+.page-logo {
+  width: 200px;
+  border-radius: none;
+  color: #ffffff;
+  top: none;
+  height: none;
+  padding-top: 20px;
+}
+.page-title {
+  color: #ffffff;
+  margin: 50px;
+  Font-size: 40px;
+}
+
+.page-title2 {
+  color: #ffffff;
+  Font-size: 20px
+}
+.alura-logo {
+   width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;  
+}
+
+.resultado {
+  color: #228B22;
+  Font-size: 40px;
+  padding-top: 80px;
+  font-weight: bold;
+}
+.div-conversor {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+a {
+    position: absolute;
+    text-decoration: none;
+    top: 35px;
+    right: 7px;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.logo-dev {
+background-size: 3px;
+    width: 200px;
+    position: absolute;
+    top: 10px;
+    Left: 10px;
+}
